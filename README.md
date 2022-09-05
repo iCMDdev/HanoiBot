@@ -1,4 +1,5 @@
 # HanoiBot
-## Un robot ce foloseste un Raspberry Pi Pico si mai multe servomotoare MG996R pentru a rezolva un puzzle de tip Hanoi. Script scris in MicroPython.
+HanoiBot is a robot that can solve Hanoi Puzzles. It is a robot arm powered by multiple MG996R servos, driven by a Raspberry Pi Pico.
+The robot's code was written in MicroPython.
 
-Am utilizat documentatia librariilor MicroPython pentru a implementa ideea robotului.
+Designed during [InfoEducatie Open 2022](https://infoeducatie.ro), a national Olympiad.
